@@ -19,15 +19,14 @@ syllables.
 This unigram calculations run on 95.txt and 5.txt first and these are the results.
 The reason for unexpected perplexity must be a result of small dataset.
 The data’s %95 and %5 are calculated seperately to calculate these.
-
-![Ekran görüntüsü_20230102_161229](https://user-images.githubusercontent.com/61903795/210236063-e3c1c64b-27df-4572-8388-ccad4932d7d8.png)
+![Ekran görüntüsü_20230102_161224](https://user-images.githubusercontent.com/61903795/210236070-fa0957bd-802f-4a63-aa5b-ce4da7292bb7.png)
 
 # BIGRAM
 
 These values calculated with the help of: zips law(efficient table), chain rule
 (creating ) and Shannon’s Method(generating random sentences).
 
-![Ekran görüntüsü_20230102_161224](https://user-images.githubusercontent.com/61903795/210236070-fa0957bd-802f-4a63-aa5b-ce4da7292bb7.png)
+![Ekran görüntüsü_20230102_161229](https://user-images.githubusercontent.com/61903795/210236063-e3c1c64b-27df-4572-8388-ccad4932d7d8.png)
 
 # Getting an efficient table
 
